@@ -8,8 +8,7 @@ const Contact = () => {
           Contact Me
         </h2>
         <p>
-          I am currently open for a fulltime Full Stack Developer role. If you
-          want to discuss about that feel free to email me or call me.
+          Feel free to email me or call me.
         </p>
 
         <p className="py-2">
